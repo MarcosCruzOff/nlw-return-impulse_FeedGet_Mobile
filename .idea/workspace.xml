@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d01225-afca-494e-8877-99613bd3a54f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mobile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mobile.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Copyright/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Copyright/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Form/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Form/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Option/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Option/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Options/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Options/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScreenshotButton/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScreenshotButton/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScreenshotButton/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScreenshotButton/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Widget/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Widget/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Widget/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Widget/styles.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

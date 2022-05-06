@@ -7,7 +7,6 @@ export const styles = StyleSheet.create({
         alignItems: 'center'
     },
     header: {
-        display: 'flex',
         flexDirection: 'row',
         marginVertical: 16
     },
@@ -30,15 +29,19 @@ export const styles = StyleSheet.create({
     },
     input: {
         height: 112,
-
+        width: '100%',
         padding: 12,
-
+        marginTop: 16,
         marginBottom: 8,
         borderRadius: 4,
         borderWidth: 1,
+        fontSize: 14,
+        lineHeight: 24,
         borderColor: theme.colors.stroke,
         color: theme.colors.text_primary,
-        fontFamily: theme.fonts.regular
+        fontFamily: theme.fonts.regular,
+        justifyContent: 'flex-start',
+        textAlignVertical: 'top'
     },
     footer: {
         display: 'flex',

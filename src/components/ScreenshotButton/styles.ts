@@ -5,16 +5,25 @@ export const styles = StyleSheet.create({
     container: {
         width: 40,
         height: 40,
-        borderRadius: 4,
         backgroundColor: theme.colors.surface_secondary,
+        borderRadius: 4,
         justifyContent: 'center',
-        alignContent: 'center',
+        alignItems: 'center',
         marginRight: 8,
         position: 'relative'
     },
+
     removeIcon: {
         position: 'absolute',
-        bottom: 0,
-        right: 0
+        right: 4,
+        bottom: 4
+    },
+    cameraIcon: {
+        // margin: 8,
+    },
+    image: {
+        height: 40,
+        width: 40,
+        borderRadius: 4
     }
 })

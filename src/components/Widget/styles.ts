@@ -7,12 +7,10 @@ export const styles = StyleSheet.create({
         width: 48,
         height: 48,
         borderRadius: 24,
-
         backgroundColor: theme.colors.brand,
         justifyContent: 'center',
         alignItems: 'center',
         position: 'absolute',
-
         right: 16,
         bottom: getBottomSpace() + 16
     },
@@ -20,9 +18,8 @@ export const styles = StyleSheet.create({
         backgroundColor: theme.colors.surface_primary,
         paddingBottom: getBottomSpace() + 16
     },
-    indicator:{
-        backgroundColor:theme.colors.text_primary,
-        width:56,
-
+    indicator: {
+        backgroundColor: theme.colors.text_primary,
+        width: 56
     }
 })
